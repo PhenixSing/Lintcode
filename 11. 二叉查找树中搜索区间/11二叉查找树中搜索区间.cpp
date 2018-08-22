@@ -102,5 +102,5 @@ int main(void)
 	//cout<<root->right->right->val;
 	
 	for(int i=0;i<4;i++)cout<<searchRange(root, 8, 29)[i];
-
+	return 0;
 }
